@@ -1,4 +1,4 @@
-# BNDES 3040 Validador
+# BACEN 3040 Validador
 
 Validador de XML 3040 do BACEN que não são validados no validador disponibilizado pelo BACEN utilizando como fonte de dados os próprios arquivos gerados pela instituição.
 

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 
-namespace Bndes3040Revisao
+namespace Bacen3040Validador
 {
     class Program
     {

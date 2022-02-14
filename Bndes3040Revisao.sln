@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bndes3040Revisao", "Bndes3040Revisao.csproj", "{CD45ED6F-E2E8-4A06-B158-FEBE25D806E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bacen3040Validador", "Bacen3040Validador.csproj", "{CD45ED6F-E2E8-4A06-B158-FEBE25D806E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

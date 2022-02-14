@@ -1,4 +1,4 @@
-﻿namespace Bndes3040Revisao
+﻿namespace Bacen3040Validador
 {
     class Operacao
     {
